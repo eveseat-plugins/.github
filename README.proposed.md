@@ -24,7 +24,7 @@ The plugin must be open source with a license that is compatible with the GPLv2 
 
 ### Utility
 
-The plugin should be something that is useful to other users of seat, not something that will only function for you or your group. ie a plugin that has counter espionage functionality that works within data that is either wholly contained in SeAT, or works with other tools that are widely available is fine. A counter intelligence tool that links into non-available tools that are private to your organisation is not considered useful to others. ie, please dont try and add seat-private-goon-intel-internal-tool-a into the org.
+The plugin should be something that is useful to other users of seat, not something that will only function for you or your group. ie a plugin that has counter espionage functionality that works within data that is either wholly contained in SeAT, or works with other tools that are widely available is fine. A counter intelligence tool that links into non-available tools that are private to your organisation is not considered useful to others. ie, please don't try and add `seat-private-internal-goon-intel-tool` into the org.
 
 ### Packagist
 
@@ -34,3 +34,6 @@ The plugin should be published on packagist (and updated to ensure it points at 
 
 This is the file used by composer to detail relevant information about your package. It is expected that this is kept up to date, including the authors section.
 In the future this file will also be parsed to populate plugin information on this page.
+
+## Contact
+Whether you want to start a new plugin in this organization, transfer an already existing one, or take over the maintenance of an abandoned plugin, please feel free to contact `@recursive_tree` or `@crypta_electrica` on the [SeAT Discord](https://discord.gg/VcUZRcnMYK).
